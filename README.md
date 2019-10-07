@@ -26,10 +26,15 @@ We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marke
 - marketplaces where every developer can sell plugins and extensions for CMS
 
 ### The advantage over competition
+- plugins made up to meet the clients needs
+- intuitive and easy to use plugins
 
 ### Key metrics
 
 ### Cost structure
+- hosting services
+- advertising and promotion
+- employee expenses
 
 ### Revenue streams
 Our revenue stream will make up of recurring revenue. We want to provide some subscription plans billed monthly or annualy.
