@@ -11,28 +11,29 @@
 
 
 ### Problem
-The problem is that there are a need for some essential plugins and extensions on the niche Content Management Systems.
+We identified a need for some essential plugins and extensions, which are part of the Content Management System (CMS).
 
 ### Solution
-The solution is developing essential plugins for Content Management Systems like Joomla, Magento, OpenCart, PrestaShop, Shopify, WooCommerce.
+The solution proposed is to develop key plugins for CMS like like Joomla, Magento, OpenCart, PrestaShop, Shopify, WooCommerce.
 
-### Value proposition
-We receive the plugin requests from the users of Content Management Systems and we start implementing extensions to meet the clients needs.
+### Value proposition / Unique Selling Proposition
+Plugineer is the place to find flexible and easy to use plugins.
 
 ### Customer segment
-We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marketplaces does not contain some essential plugins and extensions for these platforms.
+Our target market are the users of the popular CMS platforms like Joomla, Magento, or Prestashop. We analyzed various marketplaces and we came to the conclusion they do not have some key plugins and extensions that users could benefit from.
 
 ### Competition
-- marketplaces where every developer can sell plugins and extensions for CMS (e.g. https://themeforest.net/)
+Marketplaces where developers can sell plugins and extensions for CMS (e.g. https://themeforest.net/)
 
-### The advantage over competition
-- plugins made up to meet the clients needs
-- intuitive and easy to use plugins
+### Competitive advantage
+- Developing plugins designed to meet our customers’ needs
+- Intuitive and easy to use plugins and extensions 
+
 
 ### Key metrics
-- in the launching phase (publishing our first plugin) we need to advertise our product to bring new users
-- number of free trial users
-- number of subscription renewals
+- Publishing our first plugin and promoting it to gain new customers
+- Retention rate: 30% of our free trial users to become paid customers
+- The number of subscription renewals to reach 10% in the first 3 months
 
 ### Cost structure
 - hosting services
@@ -40,4 +41,4 @@ We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marke
 - employee expenses
 
 ### Revenue streams
-Our revenue stream will make up of recurring revenue. We want to provide some subscription plans billed monthly or annualy.
+Our startup will generate revenue based on the recurring revenue model. We will offer subscription plans for our plugins, with the option for our customers to choose between monthly or annually plans.
