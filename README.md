@@ -22,25 +22,13 @@ We receive the plugin requests from the users of Content Management Systems and 
 ### Customer segment
 We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marketplaces does not contain some essential plugins and extensions for these platforms.
 
+### Competition
+
+### The advantage over competition
+
+### Key metrics
+
+### Cost structure
+
 ### Revenue streams
 Our revenue stream will made up of recurring revenue. We want to provide some subscription plans billed monthly or annualy.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
