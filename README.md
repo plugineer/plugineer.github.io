@@ -23,7 +23,7 @@ Plugineer is the place to find flexible and easy to use plugins.
 Our target market are the users of the popular CMS platforms like Joomla, Magento, or Prestashop. We analyzed various marketplaces and we came to the conclusion they do not have some key plugins and extensions that users could benefit from.
 
 ### Competition
-Marketplaces where developers can sell plugins and extensions for CMS (e.g. https://themeforest.net/)
+Marketplaces where developers can sell plugins and extensions for CMS (e.g. [themforest.net](https://themeforest.net/))
 
 ### Competitive advantage
 - Developing plugins designed to meet our customers’ needs
