@@ -30,6 +30,9 @@ We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marke
 - intuitive and easy to use plugins
 
 ### Key metrics
+- in the launching phase (publishing our first plugin) we need to advertise our product to bring new users
+- number of free trial users
+- number of subscription renewals
 
 ### Cost structure
 - hosting services
