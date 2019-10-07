@@ -4,7 +4,7 @@
 ### The team
 
 - Mihai Burduselu - Product Manager
-- Eusebiu Bochici - Backend Developer
+- Eusebiu Boghici - Backend Developer
 - Vlad Teodor - Backend Developer
 - Andrei Damian - Salesperson
 - Vlad Turcanu - UI/UX Developer
@@ -23,6 +23,7 @@ We receive the plugin requests from the users of Content Management Systems and 
 We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marketplaces does not contain some essential plugins and extensions for these platforms.
 
 ### Competition
+- 
 
 ### The advantage over competition
 
@@ -31,4 +32,4 @@ We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marke
 ### Cost structure
 
 ### Revenue streams
-Our revenue stream will made up of recurring revenue. We want to provide some subscription plans billed monthly or annualy.
+Our revenue stream will make up of recurring revenue. We want to provide some subscription plans billed monthly or annualy.
