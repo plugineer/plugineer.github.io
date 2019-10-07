@@ -23,7 +23,7 @@ We receive the plugin requests from the users of Content Management Systems and 
 We target the users of CMS like Joomla, Magento, OpenCart, PrestaShop. The marketplaces does not contain some essential plugins and extensions for these platforms.
 
 ### Competition
-- 
+- marketplaces where every developer can sell plugins and extensions for CMS
 
 ### The advantage over competition
 
