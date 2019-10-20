@@ -33,3 +33,4 @@ We got the following responses to our questions:
 - ![marketplace availability](images/functionality.png)
 
 ### Moving on
+As our study suggested, there is interest in finding an easy way to install and configure CMS plug-ins, especially WordPress, which makes us to think that our Plugineer platform can solve some of the problems of the ones that use CMS sites.
