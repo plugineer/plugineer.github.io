@@ -10,7 +10,6 @@ The solution proposed is to develop key plugins for CMS like like Joomla, Magent
 We decided we would collect information using:
 - online forms
 - face to face discussions
-- our landing page for email collection for prospective users
 
 ### The process
 
