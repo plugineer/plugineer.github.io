@@ -16,7 +16,7 @@ To discover our target market and the needs of our customers, we decided the bes
 - Universities with web development subjects
 - Offices for IT companies
 
-For collecting as most information as possible without boring the subjects, we settled on a few questions:
+For collecting as much information as possible without boring the subjects, we settled on a few questions:
 - Job role
 - For software developers, asking them whether they develop websites themselves or outsource the task
 - CMS used
