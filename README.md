@@ -1,5 +1,7 @@
 ## Welcome to Plugineer
 
+[Milestone 1](https://plugineer.github.io/)
+[Milestone 2](https://plugineer.github.io/milestone2)
 
 ### The team
 
