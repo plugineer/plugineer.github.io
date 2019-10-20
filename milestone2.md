@@ -24,6 +24,12 @@ For collecting as much information as possible without boring the subjects, we s
 - Availability of plugins for the functionality they need
 
 ### What did we learn from it?
-
+We got the following responses to our questions:
+- ![genders](images/gender.png)
+- ![work status](images/work.png)
+- ![custom parts](images/webparts.png)
+- ![content management system used](images/cms.png)
+- ![difficulties](images/dificulties.png)
+- ![marketplace availability](images/functionality.png)
 
 ### Moving on
